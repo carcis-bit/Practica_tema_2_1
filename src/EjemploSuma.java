@@ -7,7 +7,7 @@ public class EjemploSuma {
 	
     public static void main(String[] args) {
       int i = 4;
-      int j = 6;
+      int j = 7;
       int x = 5;
       int suma = sumar(i,j,x);
       
