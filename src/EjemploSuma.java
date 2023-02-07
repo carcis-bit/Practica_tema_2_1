@@ -6,8 +6,8 @@ public class EjemploSuma {
 	 }
 	
     public static void main(String[] args) {
-      int i = 1;
-      int j = 5;
+      int i = 2;
+      int j = 6;
       int suma = sumar(i,j);
       
       System.out.println("Ejercicio Muestra Suma");  
